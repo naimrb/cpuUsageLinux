@@ -1,8 +1,8 @@
 # Cpu Usage Linux
 
-[!alt text](images/screenshot.gif)
+<img src="https://github.com/azer12346/cpuUsageLinux/blob/master/images/screenshot.gif" alt="screenshot" />
 
-###### Cpu Usage Linux V0.0.2
+###### Screenshot - Cpu Usage Linux V0.0.2
 
 ## Compiling (uses C++11)
 
