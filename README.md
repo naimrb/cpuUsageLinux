@@ -4,8 +4,14 @@
 
 ###### Screenshot - Cpu Usage Linux V0.0.2
 
-## Compiling (uses C++11)
+## Install ncurses
+
+### Ubuntu
+~~~
+sudo apt-get install ncurses-dev
+~~~
+## Compiling (uses C++11, ncurses)
 
 ~~~
-g++ --std=c++11 main.cpp -o cpuUsageLinux
+g++ --std=c++11 -lncurses *.cpp *.hpp -o cpuUsageLinux
 ~~~
